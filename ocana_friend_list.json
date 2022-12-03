@@ -1,0 +1,36 @@
+[
+    {
+        "first-name": "Marc Anthony",
+        "last-name": "Ocana",
+        "age": 21,
+        "address": "Brgy. Jereos, Lapaz, Iloilo City",
+        "contact-number": "09063357576",
+        "friend-list":
+        [
+            {
+                "name": "Shye Kyra Custodio",
+                "age": 21,
+                "address": "Brgy. Cau-ayan, Pototan, Iloilo",
+                "likes": "Music",
+                "dislikes": "Marc",
+                "feeling": "Disgust"
+            }
+            {
+                "name": "Julie Mae Fuertes",
+                "age": 21,
+                "address": "Locsin Ville Subd. Brgy. Buntatala, Jaro, Iloilo City",
+                "likes": "Food",
+                "dislikes": "School",
+                "feeling": "Tired"
+            },
+            {
+                "name": "Ralfh Lourenze Juelar",
+                "age": 20,
+                "address": "Brgy. San Isidro, Iloilo",
+                "likes": "KPOP",
+                "dislikes": "School",
+                "feeling": "Downhearted"
+            }
+        ]
+    }
+]
